@@ -9,3 +9,11 @@ customtkinter.set_default_color_theme("blue")
 app = customtkinter.CTk()
 app.geometry("720x480")
 app.title("YouTube Video Downloader")
+
+# Add UI Elements
+title = customtkinter.CTkLabel(app, text="Enter The URL:", font=customtkinter.CTkFont(size=20, weight="bold"))
+title.pack(padx=10, pady=10)
+
+# Link Input
+link = customtkinter.CTkEntry(app, width=350, height=40, placeholder_text="Enter YouTube Video URL")
+link.pack()
