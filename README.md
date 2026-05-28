@@ -1,6 +1,8 @@
 # Youtube-Downloader
 Download Youtube video & audio with python
 
+MAKE SURE PYTHON ALREADY INSTALLED AT YOUR DEVICES
+
 NEED PIP INSTALLATION :
 1. pip install customtinker
 2. pip install pytubefix
@@ -22,4 +24,4 @@ FOR MAC OS :
 FOR LINUX : JUST INSTALL THE FFMPEG WITH YOUR DEFAULT PACKAGE MANAGER DiSTRO
 
 run the app in your terminal and type => python app.py
-make sure python already installed at you device.
+
