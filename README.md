@@ -1,6 +1,4 @@
 # Youtube-Downloader
-Download Youtube video & audio with python
-
 MAKE SURE PYTHON ALREADY INSTALLED AT YOUR DEVICES
 
 NEED PIP INSTALLATION :
@@ -8,7 +6,7 @@ NEED PIP INSTALLATION :
 2. pip install pytubefix
 
 AND IMPORTANT KEY OPEN SOURCE APP => FFMPEG.
-install and add to your device evironment variables system path -WINDOWS
+install and add to your device environment variables system path -WINDOWS
 
 how to install?
 1. go to this website -> (www.gyan.dev/ffmpeg/builds/)
