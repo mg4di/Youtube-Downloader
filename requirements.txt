@@ -1,0 +1,2 @@
+customtkinter
+pytubefix>=11.2.1
